@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my Github profile! Academic work is kept private and is divided between here and my alternate account hosted on Cornell's servers.
 <!--
 **jasinjames/jasinjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
